@@ -1,1 +1,0 @@
-"&&dx===0){dx=-s;dy=0}else if(e.key==="ArrowRight"&&dx===0){dx=s;dy=0}});draw();const loop=setInterval(move,120);})();
